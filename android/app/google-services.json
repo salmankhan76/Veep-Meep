@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "740482387031",
+    "project_id": "veepmeep-ca069",
+    "storage_bucket": "veepmeep-ca069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740482387031:android:4c835e1f928edfea92e712",
+        "android_client_info": {
+          "package_name": "com.veepmeep.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740482387031-08dnlqktc9hun5frq1nuprjq057bjcrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veepmeep.app",
+            "certificate_hash": "7fadeadc8e91dcc0bc00813d80004bc0ea717b07"
+          }
+        },
+        {
+          "client_id": "740482387031-su7c7kadk2e8rajtmc9cukdmhec47k8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veepmeep.app",
+            "certificate_hash": "4d9bf012b40092c8937d48d5f335770e8d45a8d1"
+          }
+        },
+        {
+          "client_id": "740482387031-disrnmge1d72hgdohnns51ndsgtsiipr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWX5VHf83M0fNdmvoDdb4VL9Oo9mcre3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740482387031-disrnmge1d72hgdohnns51ndsgtsiipr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "740482387031-cnvdcgp64rde7ms4nc0u0lrp1p088vk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.veepmeep.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
